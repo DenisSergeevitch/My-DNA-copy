@@ -8,7 +8,7 @@
 Here is me:
 ![My photo](https://github.com/DenisSergeevitch/My-DNA-copy/blob/main/me.jpg?raw=true)
 
-Here example of the raw data [availible here](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/genome_Denis_Shiryaev_v5_Full_20220217131840.txt?raw=true):
+Here example of the raw data [availible here](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/genome_Denis_Shiryaev_v5_Full_20220217131840.txt?raw=true) (15.6 MB):
 
 | rsid        | chromosome | position | genotype |
 |-------------|------------|----------|----------|
@@ -42,7 +42,7 @@ Here example of the raw data [availible here](https://github.com/DenisSergeevitc
 
 
 A friendly note: 
-if you will a clone of mine, please make him with blue eyes instead of the gene responsible for "dad jokes." Thank you.
+If you will create a clone of mine, please make him with blue eyes instead of the gene responsible for "dad jokes." Thank you.
 
 
 ________
