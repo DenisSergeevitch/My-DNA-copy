@@ -8,7 +8,7 @@
 Here is me:
 ![My photo](https://github.com/DenisSergeevitch/My-DNA-copy/blob/main/me.jpg?raw=true)
 
-Here example of the raw data [availible here](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/genome_Denis_Shiryaev_v5_Full_20220217131840.txt?raw=true) (15.6 MB):
+Here example of the my raw DNA data [availible here](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/genome_Denis_Shiryaev_v5_Full_20220217131840.txt?raw=true) (15.6 MB):
 
 | rsid        | chromosome | position | genotype |
 |-------------|------------|----------|----------|
