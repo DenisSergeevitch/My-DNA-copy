@@ -6,7 +6,7 @@
  My raw DNA export from 23andme.com under MIT license
 
 Here is me:
-![My photo](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/me.jpg?raw=true)
+![My photo](https://github.com/DenisSergeevitch/My-DNA-copy/blob/main/me.jpg?raw=true)
 
 Here example of the raw data [availible here](https://github.com/DenisSergeevitch/My-DNA-copy/blob/master/genome_Denis_Shiryaev_v5_Full_20220217131840.txt?raw=true):
 
